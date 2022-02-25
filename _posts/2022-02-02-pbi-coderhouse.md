@@ -81,7 +81,7 @@ These graphs allowed us to understand much better what relationship exists betwe
 
 For example with donut graphs I was able to quickly compare 8 variables in two different segmentations (current campaign and previous campaign)
 
-![dona](\img\posts\web-scraping\dona.png)
+![Desktop View](/dona.png)
 
 <div style="text-align:center;padding-bottom:21px"> <span style="color:green"><b><font size="5">Final results</font></b></span></div>
 
