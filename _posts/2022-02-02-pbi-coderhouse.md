@@ -35,15 +35,13 @@ We can divide all attributes in 4 groups:
 3. social and economic (inflation, bank loan interest, employee rate, etc)
 4. other (contacts performed, days from last contact, etc)
 
-[![](https://mermaid.ink/img/pako:eNo1jrEOwjAMRH8leG5_oANSEexIMGYxidtENEnluEKl6r-TUvBgnc7PulvAJEvQQDekl3HIou4nHVWZPD16xtGpO2PMXeLgY68sCiofJZWVfe8k73Sbn3V9vDKNyPRVyVDORbURh_m9eTe331ojh_2LooUKAnFAb0uLZbM1iKNAGpoiLfJTg45r4aaxpNPFekkMTYdDpgpwknSbo4FGeKI_dPZYyocftX4APc9OLw)](https://mermaid.live/edit#pako:eNo1jrEOwjAMRH8leG5_oANSEexIMGYxidtENEnluEKl6r-TUvBgnc7PulvAJEvQQDekl3HIou4nHVWZPD16xtGpO2PMXeLgY68sCiofJZWVfe8k73Sbn3V9vDKNyPRVyVDORbURh_m9eTe331ojh_2LooUKAnFAb0uLZbM1iKNAGpoiLfJTg45r4aaxpNPFekkMTYdDpgpwknSbo4FGeKI_dPZYyocftX4APc9OLw)
-
 <div class="mermaid">
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+flowchart TB;
+    subgraph Transforming data into insights;
+    Ask-->Prepare-->Process-->Analyze-->Share-->Act!;
+    end;
 </div>
+
 
 <div style="text-align:center;padding-bottom:21px"> <span style="color:green"><b><font size="5">Ask</font></b></span></div>
 
