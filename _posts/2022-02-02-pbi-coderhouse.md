@@ -105,5 +105,5 @@ The dashboard has a total of 13 pages, dark and light mode selector, segmentatio
 ___
 
 ![Desktop View](/mainmain.png)
-![Desktop View](/ndsnd.png)
+![Desktop View](/sndsnd.png)
 ![Desktop View](/last.png)
