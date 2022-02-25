@@ -13,8 +13,6 @@ The things you will find here are related to data science and data analysis, my 
 
 Skills ![skills](/pandas.svg)![skills](/python.svg)![skills](/sql.svg)
 
-
-
 Hackerrank: [https://www.hackerrank.com/lucianoleguizam1](https://www.hackerrank.com/lucianoleguizam1)
 
 Github: [https://github.com/leguizamonluciano](https://github.com/leguizamonluciano)
