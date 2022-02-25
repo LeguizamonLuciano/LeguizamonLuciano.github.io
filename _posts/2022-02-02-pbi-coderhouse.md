@@ -37,6 +37,14 @@ We can divide all attributes in 4 groups:
 
 [![](https://mermaid.ink/img/pako:eNo1jrEOwjAMRH8leG5_oANSEexIMGYxidtENEnluEKl6r-TUvBgnc7PulvAJEvQQDekl3HIou4nHVWZPD16xtGpO2PMXeLgY68sCiofJZWVfe8k73Sbn3V9vDKNyPRVyVDORbURh_m9eTe331ojh_2LooUKAnFAb0uLZbM1iKNAGpoiLfJTg45r4aaxpNPFekkMTYdDpgpwknSbo4FGeKI_dPZYyocftX4APc9OLw)](https://mermaid.live/edit#pako:eNo1jrEOwjAMRH8leG5_oANSEexIMGYxidtENEnluEKl6r-TUvBgnc7PulvAJEvQQDekl3HIou4nHVWZPD16xtGpO2PMXeLgY68sCiofJZWVfe8k73Sbn3V9vDKNyPRVyVDORbURh_m9eTe331ojh_2LooUKAnFAb0uLZbM1iKNAGpoiLfJTg45r4aaxpNPFekkMTYdDpgpwknSbo4FGeKI_dPZYyocftX4APc9OLw)
 
+<div class="mermaid">
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+</div>
+
 <div style="text-align:center;padding-bottom:21px"> <span style="color:green"><b><font size="5">Ask</font></b></span></div>
 
 I was interested in knowing how effective the campaign was, that is, if the people it was addressed to were the right ones or if the bank had to adjust its parameters for future campaigns. From this arose the following and many other questions:
