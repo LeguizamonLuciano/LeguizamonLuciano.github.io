@@ -9,11 +9,11 @@ order: 4
 
 Hi, I'm Luciano, welcome to my blog!
 
-The things you will find here are related to data science and data analysis, my interest is to share my knowledge and skills with other people.
+The things you will find here are related to data science and data analysis, my goal is to share my knowledge and skills with other people.
 
-- Skills (intermediate): Power BI, SQL
+Skills ![skills](/pandas.svg)![skills](/python.svg)![skills](/sql.svg)
 
-- Skills (basic): Python & Pandas
+
 
 Hackerrank: [https://www.hackerrank.com/lucianoleguizam1](https://www.hackerrank.com/lucianoleguizam1)
 
