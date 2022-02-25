@@ -12,7 +12,7 @@ To get to the root of these problems and find practical solutions, there are lot
 > **No matter the problem, the first and most important step is understanding it.**
 {: .prompt-tip }
 
-![6 problems](/img/posts/web-scraping/QJL2lG1VQxWS9pRtVTMVTw_6217c9fe51ec43f48f02dc4f42cc1d56_Screen-Shot-2020-12-09-at-10.17.12-PM.png)
+![6 problems](/QJL2lG1VQxWS9pRtVTMVTw_6217c9fe51ec43f48f02dc4f42cc1d56_Screen-Shot-2020-12-09-at-10.17.12-PM.png)
 
 ___
 

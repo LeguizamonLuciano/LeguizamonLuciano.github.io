@@ -14,11 +14,12 @@ There are six data analysis phases or steps: **ask, prepare, process, analyze, s
 {: .prompt-tip }
 ___
 
- <div class="mermaid">
-flowchart TB
-    subgraph Transforming data into insights
-    Ask-->Prepare-->Process-->Analyze-->Share-->Act!
-    end </div>
+<div class="mermaid">
+flowchart TB;
+    subgraph Transforming data into insights;
+    Ask-->Prepare-->Process-->Analyze-->Share-->Act!;
+    end;
+</div>
 
 ## Ask
 
