@@ -35,7 +35,7 @@ We can divide all attributes in 4 groups:
 3. social and economic (inflation, bank loan interest, employee rate, etc)
 4. other (contacts performed, days from last contact, etc)
 
- <div class="mermaid">
+ <div class="mermaid" data-processed="true">
 flowchart TB;
     subgraph Transforming data into insights
     Ask-->Prepare-->Process-->Analyze-->Share-->Act!
