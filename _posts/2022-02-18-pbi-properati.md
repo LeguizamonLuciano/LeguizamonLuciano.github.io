@@ -8,10 +8,11 @@ pin: true
 
 - [x] Understand data
 - [x] Prepare data
-- [ ] Clean data
+- [x] Clean data
     - [x] Remove unnecessary data 
     - [x] Fix time series related data
-    - [ ] Replace NaNs by real and useful data
+    - [x] Replace NaNs by real and useful data
+- [x] Build PBI dashboard
 
 
 ## <u>About</u>
