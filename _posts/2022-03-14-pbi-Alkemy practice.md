@@ -1,0 +1,22 @@
+---
+title: Alkemy challenge
+date: 2022-03-14 18:32:00 -0300
+categories: [Projects, Pandas]
+tags: [transform, data, python, pandas]
+pin: true
+---
+
+- [] Understand data
+- [] Prepare data
+- [] Clean data
+
+## <u>About</u>
+
+## <u>Topic</u>
+
+## <u>Features</u>
+
+## <u>Exploring and filtering data</u>
+
+## <u>Final result</u>
+
