@@ -397,4 +397,13 @@ df_NaN_lat_lon.to_csv('df_nans.csv')
 - Use the google datasheet extension 'ezGeocode'. You pass it the location and returns lat & lon
 - Now it's time to merge both files and replace nulls for real LAT & LON
 
-# To be continued
+# Dashboard
+
+After a few days of work, here is the final dashboard! I tried to make it as simple as possible and self explanatory
+
+The main idea was to practice the use of PowerBI after cleaning data with Pandas, i am very happy with the final result 😊
+
+![Desktop View](/prop1.png)
+![Desktop View](/prop2.png)
+![Desktop View](/prop3.png)
+![Desktop View](/prop4.png)
